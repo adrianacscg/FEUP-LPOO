@@ -1,5 +1,5 @@
 # LPOO Cubefield
-All code written in collaboration with [Adriana Gonçalves](https://github.com/adrianacscg) and [Mario Cardoso](https://github.com/mdpcardoso).
+All code written in collaboration between [Adriana Gonçalves](https://github.com/adrianacscg) and [Mario Cardoso](https://github.com/mdpcardoso).
 
 Project developed for the [Object Oriented Programming](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=436442) course @ FEUP.
 
